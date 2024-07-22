@@ -12,7 +12,7 @@ This project is a timer application built as part of the Frontend Libraries proj
 ### Technologies Used
 
 - HTML
-- CSS
+- CSS (Tailwind)
 - JavaScript (React)
 
 ## Installation
